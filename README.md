@@ -1,9 +1,12 @@
-# Implementing a neural network from scratch
+# Implementing a Neural Network from scratch
 
-### Notebook setup
+### iPython notebook setup
 
 ```bash
+# Create a new virtual environment (optional)
+virtualenv venv
 # Install requirements
 pip install -r requirements.txt
+# Start the notebook server
 jupyter notebook .
 ```
