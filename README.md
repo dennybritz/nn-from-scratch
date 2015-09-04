@@ -1,5 +1,7 @@
 # Implementing a Neural Network from scratch
 
+[*Read the blog post*](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+
 ### iPython notebook setup
 
 ```bash
