@@ -5,8 +5,9 @@
 ### iPython notebook setup
 
 ```bash
-# Create a new virtual environment (optional)
+# Create and activate new virtual environment (optional)
 virtualenv venv
+source venv/bin/activate
 # Install requirements
 pip install -r requirements.txt
 # Start the notebook server
