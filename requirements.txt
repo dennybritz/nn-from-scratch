@@ -30,7 +30,7 @@ pexpect==3.3
 pickleshare==0.5
 ptyprocess==0.5
 PyBrain==0.3
-Pygments==2.0.2
+Pygments==2.7.4
 pyparsing==2.0.3
 python-dateutil==2.4.2
 pytz==2015.4
