@@ -14,7 +14,7 @@ jsonschema==2.5.1
 jupyter==1.0.0
 jupyter-client==4.0.0
 jupyter-console==4.0.1
-jupyter-core==4.0.4
+jupyter-core==4.11.2
 MarkupSafe==0.23
 matplotlib==1.4.3
 mistune==2.0.3
