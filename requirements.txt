@@ -37,7 +37,7 @@ pytz==2015.4
 pyzmq==14.7.0
 qtconsole==4.0.1
 scikit-learn==0.16.1
-scipy==0.16.0
+scipy==1.10.0
 simplegeneric==0.8.1
 six==1.9.0
 sklearn==0.0
