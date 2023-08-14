@@ -42,6 +42,6 @@ simplegeneric==0.8.1
 six==1.9.0
 sklearn==0.0
 terminado==0.5
-tornado==6.3.2
+tornado==6.3.3
 traitlets==4.0.0
 wheel==0.38.1
